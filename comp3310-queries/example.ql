@@ -1,5 +1,5 @@
 /**
- * @name Comp3310 workshop 6 query
+ * @name Comp3310 Assignment 1 Query
  * @kind problem
  * @problem.severity warning
  * @id java/example/empty-block
